@@ -1,0 +1,50 @@
+{
+  "hero": {
+    "title": "Qashabia Messaad",
+    "description": "A refined showcase for the store's qashabia collection.",
+    "image": "content/brand/logo.png"
+  },
+  "featuredProducts": {
+    "title": "Featured Collection",
+    "slugs": [
+      "qashabia-classic-brown",
+      "qashabia-heritage-gold"
+    ]
+  },
+  "heritage": {
+    "title": "Heritage",
+    "text": "The store's heritage story will be added from the Admin app.",
+    "image": ""
+  },
+  "craftsmanship": {
+    "title": "Craftsmanship",
+    "text": "Details about materials, making and craftsmanship will be added from the Admin app.",
+    "image": ""
+  },
+  "whyUs": {
+    "title": "About the Store",
+    "items": [
+      {
+        "title": "Authentic Identity",
+        "text": "Store information is managed from Admin."
+      },
+      {
+        "title": "Selected Collection",
+        "text": "Featured products are controlled from Admin."
+      },
+      {
+        "title": "Direct Contact",
+        "text": "Contact details and WhatsApp are controlled from Admin."
+      }
+    ]
+  },
+  "location": {
+    "title": "Visit Us",
+    "text": "Store location will be added from Admin."
+  },
+  "whatsappCta": {
+    "title": "Talk to the Store",
+    "text": "Ask about products, sizes or availability.",
+    "button": "Contact on WhatsApp"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "qashabia-classic-brown",
+  "name": "Classic Brown Qashabia",
+  "description": "Demo product. Replace this description from Admin.",
+  "category": "classic",
+  "price": null,
+  "currency": "DZD",
+  "sizes": [],
+  "colors": [],
+  "material": "",
+  "availability": "available",
+  "featured": true,
+  "new": false,
+  "images": [
+    {
+      "files": {
+        "thumb": "products/qashabia-classic-brown/images/01-thumb.webp",
+        "card": "products/qashabia-classic-brown/images/01-card.webp",
+        "medium": "products/qashabia-classic-brown/images/01-medium.webp",
+        "large": "products/qashabia-classic-brown/images/01.webp"
+      },
+      "width": 800,
+      "height": 1000
+    }
+  ],
+  "whatsappMessage": "Hello, I'm interested in [Product Name]."
+}

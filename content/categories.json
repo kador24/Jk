@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "slug": "classic",
+      "en": "Classic",
+      "ar": "كلاسيكي"
+    },
+    {
+      "slug": "heritage",
+      "en": "Heritage",
+      "ar": "تراثي"
+    },
+    {
+      "slug": "winter",
+      "en": "Winter",
+      "ar": "شتوي"
+    }
+  ]
+}
