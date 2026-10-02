@@ -1,0 +1,42 @@
+{
+  "slug": "qashabia",
+  "name": "قشابية",
+  "description": "هذي قشابية اجمل من الجمال  الحالي",
+  "category": "heritage",
+  "price": 20000,
+  "currency": "DZD",
+  "sizes": [
+    "كل احجام"
+  ],
+  "colors": [
+    "🟫"
+  ],
+  "material": "صوف عرب",
+  "availability": "available",
+  "featured": false,
+  "new": true,
+  "images": [
+    {
+      "files": {
+        "thumb": "products/qashabia/images/01-thumb.webp",
+        "card": "products/qashabia/images/01.webp",
+        "medium": "products/qashabia/images/01.webp",
+        "large": "products/qashabia/images/01.webp"
+      },
+      "width": 480,
+      "height": 501
+    },
+    {
+      "files": {
+        "thumb": "products/qashabia/images/02-thumb.webp",
+        "card": "products/qashabia/images/02-card.webp",
+        "medium": "products/qashabia/images/02.webp",
+        "large": "products/qashabia/images/02.webp"
+      },
+      "width": 640,
+      "height": 800
+    }
+  ],
+  "createdAt": "2026-10-02T11:11:03.008Z",
+  "updatedAt": "2026-10-02T11:11:03.008Z"
+}

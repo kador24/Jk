@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-02T11:05:00.535Z",
+  "updatedAt": "2026-10-02T11:11:03.609Z",
   "products": [
+    {
+      "slug": "qashabia",
+      "name": "قشابية",
+      "category": "heritage",
+      "price": 20000,
+      "currency": "DZD",
+      "availability": "available",
+      "featured": false,
+      "new": true,
+      "image": {
+        "thumb": "products/qashabia/images/01-thumb.webp",
+        "card": "products/qashabia/images/01.webp",
+        "medium": "products/qashabia/images/01.webp",
+        "large": "products/qashabia/images/01.webp"
+      }
+    },
     {
       "slug": "qashabia-classic-brown",
       "name": "Classic Brown Qashabia",
