@@ -1,5 +1,5 @@
 {
-  "updatedAt": "",
+  "updatedAt": "2026-10-02T11:05:00.535Z",
   "products": [
     {
       "slug": "qashabia-classic-brown",
@@ -7,7 +7,7 @@
       "category": "classic",
       "price": null,
       "currency": "DZD",
-      "availability": "available",
+      "availability": "unavailable",
       "featured": true,
       "new": false,
       "image": {

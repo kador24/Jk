@@ -8,7 +8,7 @@
   "sizes": [],
   "colors": [],
   "material": "",
-  "availability": "available",
+  "availability": "unavailable",
   "featured": true,
   "new": false,
   "images": [
@@ -23,5 +23,6 @@
       "height": 1000
     }
   ],
-  "whatsappMessage": "Hello, I'm interested in [Product Name]."
+  "whatsappMessage": "Hello, I'm interested in [Product Name].",
+  "updatedAt": "2026-10-02T11:04:59.618Z"
 }
