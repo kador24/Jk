@@ -1,8 +1,8 @@
 {
   "hero": {
+    "image": "content/brand/logo.png",
     "title": "Qashabia Messaad",
-    "description": "A refined showcase for the store's qashabia collection.",
-    "image": "content/brand/logo.png"
+    "description": "A refined showcase for the store's qashabia collection."
   },
   "featuredProducts": {
     "title": "Featured Collection",
@@ -12,39 +12,30 @@
     ]
   },
   "heritage": {
-    "title": "Heritage",
-    "text": "The store's heritage story will be added from the Admin app.",
-    "image": ""
+    "title": "Craftsmanship",
+    "text": "Every Qashabia carries the character of traditional Algerian craftsmanship.\n\nWe pay attention to the details that make each piece special — from the texture of the wool and the stitching to the finishing touches.\n\nAt Bled Heritage, we present Qashabia Messaad with a refined approach while preserving its traditional character and distinctive details.",
+    "image": "content/images/heritage.webp"
   },
   "craftsmanship": {
     "title": "Craftsmanship",
     "text": "Details about materials, making and craftsmanship will be added from the Admin app.",
-    "image": ""
+    "image": "content/images/craftsmanship.webp"
   },
   "whyUs": {
-    "title": "About the Store",
+    "title": "Authentic Identity",
     "items": [
       {
         "title": "Authentic Identity",
-        "text": "Store information is managed from Admin."
-      },
-      {
-        "title": "Selected Collection",
-        "text": "Featured products are controlled from Admin."
+        "text": "A collection inspired by the character of Qashabia Messaad and Algerian heritage."
       },
       {
         "title": "Direct Contact",
-        "text": "Contact details and WhatsApp are controlled from Admin."
+        "text": "Contact us directly through WhatsApp to ask about products, availability, sizes and details."
       }
     ]
   },
   "location": {
     "title": "Visit Us",
-    "text": "Store location will be added from Admin."
-  },
-  "whatsappCta": {
-    "title": "Talk to the Store",
-    "text": "Ask about products, sizes or availability.",
-    "button": "Contact on WhatsApp"
+    "text": "Description: Visit Bled Heritage in Messaad and discover our collection of Qashabia Messaad https://maps.app.goo.gl/Z2TrPQsnJxeKJ9gp9?g_st=ac"
   }
 }
